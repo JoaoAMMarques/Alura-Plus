@@ -1,0 +1,20 @@
+:root {
+    --branco-destaque: #FFFFFF;
+    --branco-corpo: #F9F9F9;
+    --cinza: #C0C0C0;
+    --botao-azul: #167BF7;
+    --botao-azul-efeito: #0273fd;
+    --cor-de-fundo: #00030C;
+    --vermelho: #EC2F46;
+
+    --fonte-padrao: "Inter", sans-serif;
+
+    --peso-destaque: 700;
+
+    --tamanho-destaque-titulo: 48px;
+    --tamanho-dispositivos: 32px;
+    --tamanho-destaque: 28px;
+    --tamanho-corpo: 16px;
+    --tamanho-footer: 14px;
+    --tamanho-pequeno: 12px;
+}
